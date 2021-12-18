@@ -5,3 +5,4 @@
 * vscode를 사용하여 add, commit, push 하기
 * 라이언 싫어요 하지만 좋아요
 * tag 를 추가함
+* amend 커밋을 수정할때는 강제 푸시를 해야 한다. 
